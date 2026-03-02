@@ -13,3 +13,5 @@
 <!-- commit-log: 2026-02-20T22:15:28 - style: update footer layout and link styles -->
 
 <!-- commit-log: 2026-02-23T19:41:18 - style: improve mobile hamburger menu styling -->
+
+<!-- commit-log: 2026-03-02T13:12:54 - fix: ensure images have proper alt attributes -->
