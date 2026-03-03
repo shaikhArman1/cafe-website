@@ -15,3 +15,5 @@
 <!-- commit-log: 2026-02-23T19:41:18 - style: improve mobile hamburger menu styling -->
 
 <!-- commit-log: 2026-03-02T13:12:54 - fix: ensure images have proper alt attributes -->
+
+<!-- commit-log: 2026-03-03T17:12:31 - feat: add smooth scroll behavior to nav links -->
