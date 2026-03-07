@@ -17,3 +17,5 @@
 <!-- commit-log: 2026-03-02T13:12:54 - fix: ensure images have proper alt attributes -->
 
 <!-- commit-log: 2026-03-03T17:12:31 - feat: add smooth scroll behavior to nav links -->
+
+<!-- commit-log: 2026-03-07T19:48:15 - style: improve card hover animations -->
