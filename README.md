@@ -19,3 +19,5 @@
 <!-- commit-log: 2026-03-03T17:12:31 - feat: add smooth scroll behavior to nav links -->
 
 <!-- commit-log: 2026-03-07T19:48:15 - style: improve card hover animations -->
+
+<!-- commit-log: 2026-03-08T21:15:34 - fix: resolve broken link in navigation menu -->
