@@ -21,3 +21,5 @@
 <!-- commit-log: 2026-03-07T19:48:15 - style: improve card hover animations -->
 
 <!-- commit-log: 2026-03-08T21:15:34 - fix: resolve broken link in navigation menu -->
+
+<!-- commit-log: 2026-03-11T17:24:21 - fix: correct meta tags for better SEO -->
