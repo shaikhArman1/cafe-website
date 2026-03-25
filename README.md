@@ -29,3 +29,5 @@
 <!-- commit-log: 2026-03-16T09:00:40 - style: refine typography and spacing across sections -->
 
 <!-- commit-log: 2026-03-24T09:26:13 - style: improve card hover animations -->
+
+<!-- commit-log: 2026-03-25T11:40:30 - fix: correct meta tags for better SEO -->
