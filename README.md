@@ -31,3 +31,5 @@
 <!-- commit-log: 2026-03-24T09:26:13 - style: improve card hover animations -->
 
 <!-- commit-log: 2026-03-25T11:40:30 - fix: correct meta tags for better SEO -->
+
+<!-- commit-log: 2026-03-28T19:02:19 - feat: add back-to-top button functionality -->
