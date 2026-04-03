@@ -1,0 +1,148 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Sip & Bite Cafe</title>
+
+  <!-- Google Fonts -->
+  <link
+    href="https://fonts.googleapis.com/css2?family=Playfair+Display:wght@600;700;800&family=Inter:wght@400;500;600&display=swap"
+    rel="stylesheet">
+
+  <link rel="stylesheet" href="style.css" />
+</head>
+
+<body>
+
+  <!-- Navigation -->
+  <nav class="navbar">
+    <div class="logo">Sip & <span class="highlight">Bite</span></div>
+    <ul class="nav-links">
+      <li><a href="index.html" class="active">Home</a></li>
+      <li><a href="menu.html">Menu</a></li>
+      <li><a href="#reviews">Reviews</a></li>
+      <li><a href="#location">Locate Us</a></li>
+    </ul>
+  </nav>
+
+  <!-- Hero Section -->
+  <section class="hero">
+    
+    <!-- Hero faded background -->
+    <div class="hero-bg-wrapper">
+      <div class="hero-bg-image" style="background-image: url('cafe_exterior.jpeg');"></div>
+    </div>
+
+    <div class="hero-container">
+      <div class="hero-content">
+        <h1 class="hero-title">
+          Experience the<br/>
+          <span class="highlight">Perfect Blend</span> 
+        </h1>
+        <p class="hero-tagline">Your cozy neighborhood spot for exceptional coffee, savory bites, and sweet moments.</p>
+        <a href="menu.html" class="cta-btn">Explore Menu</a>
+      </div>
+    </div>
+  </section>
+
+  <!-- Reviews Section (Infinite Marquee) -->
+  <section id="reviews" class="reviews-section">
+    <div class="reviews-header">
+      <h2 class="glowing-logo">Sip & Bite</h2>
+      <p class="reviews-subtitle">What Our Guests Say</p>
+    </div>
+
+    <div class="marquee-container">
+      <div class="marquee-track">
+        <!-- Card 1 -->
+        <div class="review-card">
+          <div class="quote-mark">“</div>
+          <p class="review-text">Absolutely loved the vibe! The glowing aesthetic outside and the cozy interior make it the perfect weekend spot.</p>
+          <div class="reviewer-name">- Raghav M.</div>
+        </div>
+        <!-- Card 2 -->
+        <div class="review-card">
+          <div class="quote-mark">“</div>
+          <p class="review-text">The hot chocolate and sizzling brownie was out of this world. Highly recommend stopping by for an evening snack.</p>
+          <div class="reviewer-name">- Anushka S.</div>
+        </div>
+        <!-- Card 3 -->
+        <div class="review-card">
+          <div class="quote-mark">“</div>
+          <p class="review-text">A great place to chill with friends. The burgers and fries are crisp and perfectly seasoned.</p>
+          <div class="reviewer-name">- Rahul G.</div>
+        </div>
+        <!-- Card 4 -->
+        <div class="review-card">
+          <div class="quote-mark">“</div>
+          <p class="review-text">Such friendly staff and amazing momos! You definitely get a premium cafe feel here.</p>
+          <div class="reviewer-name">- Sneha K.</div>
+        </div>
+        <!-- Duplicate cards for infinite scroll illusion -->
+        <div class="review-card">
+          <div class="quote-mark">“</div>
+          <p class="review-text">Absolutely loved the vibe! The glowing aesthetic outside and the cozy interior make it the perfect weekend spot.</p>
+          <div class="reviewer-name">- Raghav M.</div>
+        </div>
+        <div class="review-card">
+          <div class="quote-mark">“</div>
+          <p class="review-text">The hot chocolate and sizzling brownie was out of this world. Highly recommend stopping by for an evening snack.</p>
+          <div class="reviewer-name">- Anushka S.</div>
+        </div>
+        <div class="review-card">
+          <div class="quote-mark">“</div>
+          <p class="review-text">A great place to chill with friends. The burgers and fries are crisp and perfectly seasoned.</p>
+          <div class="reviewer-name">- Rahul G.</div>
+        </div>
+        <div class="review-card">
+          <div class="quote-mark">“</div>
+          <p class="review-text">Such friendly staff and amazing momos! You definitely get a premium cafe feel here.</p>
+          <div class="reviewer-name">- Sneha K.</div>
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <!-- Location & Map Section -->
+  <section id="location" class="location-section">
+    <div class="map-container">
+      <h2 class="location-title">Find <span class="highlight">Us</span> Here</h2>
+      <div class="map-wrapper">
+        <!-- Google Maps Embed using dark mode trick via CSS filter -->
+        <iframe 
+          src="https://maps.google.com/maps?q=Greenfield+Ambition,+Action+Area+2A,+New+Town,+Kolkata&t=&z=15&ie=UTF8&iwloc=&output=embed" 
+          width="100%" 
+          height="400" 
+          style="border:0;" 
+          allowfullscreen="" 
+          loading="lazy">
+        </iframe>
+      </div>
+    </div>
+  </section>
+
+  <!-- Outro / Footer Section -->
+  <section class="outro">
+    <div class="outro-container">
+      <div class="outro-left">
+        <h2>Visit Sip & Bite</h2>
+        <p>Ground Floor, Greenfield Ambition, 52-0676, Shop No G-1 & 1-1, ID/T, Commercial Complex, Action Area 2A, New
+          Town, North 24 Parganas, Kolkata - 700161</p>
+        <p>Contacts: +91 91633 32809, +91 70031 25639</p>
+      </div>
+      <div class="outro-right">
+        <h3 class="feedback-title">Already visited us? Leave us a feedback.</h3>
+        <form class="feedback-form" onsubmit="event.preventDefault(); alert('Thank you for the feedback!');">
+          <textarea placeholder="Write your experience..." rows="4" required></textarea>
+          <button type="submit" class="feedback-btn">Send Feedback</button>
+        </form>
+      </div>
+    </div>
+  </section>
+
+  <script src="script.js"></script>
+</body>
+
+</html>
