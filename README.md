@@ -41,3 +41,5 @@
 <!-- commit-log: 2026-04-21T12:37:09 - fix: resolve layout shift on smaller viewports -->
 
 <!-- commit-log: 2026-04-21T15:16:38 - feat: add cookie consent banner -->
+
+<!-- commit-log: 2026-04-21T16:14:43 - feat: add favicon and social preview image -->
