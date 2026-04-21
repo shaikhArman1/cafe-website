@@ -39,3 +39,5 @@
 <!-- commit-log: 2026-04-21T11:50:01 - fix: resolve broken link in navigation menu -->
 
 <!-- commit-log: 2026-04-21T12:37:09 - fix: resolve layout shift on smaller viewports -->
+
+<!-- commit-log: 2026-04-21T15:16:38 - feat: add cookie consent banner -->
