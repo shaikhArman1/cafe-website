@@ -35,3 +35,5 @@
 <!-- commit-log: 2026-03-28T19:02:19 - feat: add back-to-top button functionality -->
 
 <!-- commit-log: 2026-03-30T16:42:39 - fix: resolve broken link in navigation menu -->
+
+<!-- commit-log: 2026-04-21T11:50:01 - fix: resolve broken link in navigation menu -->
