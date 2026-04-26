@@ -47,3 +47,5 @@
 <!-- commit-log: 2026-04-21T17:09:04 - feat: add back-to-top button functionality -->
 
 <!-- commit-log: 2026-04-21T20:10:38 - feat: add cookie consent banner -->
+
+<!-- commit-log: 2026-04-26T11:38:30 - fix: ensure images have proper alt attributes -->
