@@ -51,3 +51,5 @@
 <!-- commit-log: 2026-04-26T11:38:30 - fix: ensure images have proper alt attributes -->
 
 <!-- commit-log: 2026-06-15T11:17:19 - fix: correct grid alignment in features section -->
+
+<!-- commit-log: 2026-06-15T17:42:48 - style: refine typography and spacing across sections -->
