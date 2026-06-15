@@ -55,3 +55,5 @@
 <!-- commit-log: 2026-06-15T17:42:48 - style: refine typography and spacing across sections -->
 
 <!-- commit-log: 2026-06-15T19:15:13 - feat: add cookie consent banner -->
+
+<!-- commit-log: 2026-06-15T19:11:56 - style: improve mobile hamburger menu styling -->
