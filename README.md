@@ -67,3 +67,5 @@
 <!-- commit-log: 2026-06-19T12:07:54 - fix: remove unused CSS declarations -->
 
 <!-- commit-log: 2026-06-19T16:31:57 - style: update hero section with improved gradient -->
+
+<!-- commit-log: 2026-06-19T21:54:48 - feat: add contact form with basic validation -->
