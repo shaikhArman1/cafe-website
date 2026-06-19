@@ -59,3 +59,5 @@
 <!-- commit-log: 2026-06-15T19:11:56 - style: improve mobile hamburger menu styling -->
 
 <!-- commit-log: 2026-06-15T20:00:55 - feat: add back-to-top button functionality -->
+
+<!-- commit-log: 2026-06-19T09:42:58 - style: update footer layout and link styles -->
