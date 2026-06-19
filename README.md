@@ -61,3 +61,5 @@
 <!-- commit-log: 2026-06-15T20:00:55 - feat: add back-to-top button functionality -->
 
 <!-- commit-log: 2026-06-19T09:42:58 - style: update footer layout and link styles -->
+
+<!-- commit-log: 2026-06-19T11:32:42 - fix: resolve broken link in navigation menu -->
