@@ -65,3 +65,5 @@
 <!-- commit-log: 2026-06-19T11:32:42 - fix: resolve broken link in navigation menu -->
 
 <!-- commit-log: 2026-06-19T12:07:54 - fix: remove unused CSS declarations -->
+
+<!-- commit-log: 2026-06-19T16:31:57 - style: update hero section with improved gradient -->
