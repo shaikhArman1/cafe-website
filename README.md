@@ -63,3 +63,5 @@
 <!-- commit-log: 2026-06-19T09:42:58 - style: update footer layout and link styles -->
 
 <!-- commit-log: 2026-06-19T11:32:42 - fix: resolve broken link in navigation menu -->
+
+<!-- commit-log: 2026-06-19T12:07:54 - fix: remove unused CSS declarations -->
