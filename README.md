@@ -77,3 +77,5 @@
 <!-- commit-log: 2026-07-04T12:14:37 - feat: add smooth scroll behavior to nav links -->
 
 <!-- commit-log: 2026-07-04T14:57:49 - feat: add contact form with basic validation -->
+
+<!-- commit-log: 2026-07-04T16:01:43 - fix: ensure images have proper alt attributes -->
