@@ -71,3 +71,5 @@
 <!-- commit-log: 2026-06-19T21:54:48 - feat: add contact form with basic validation -->
 
 <!-- commit-log: 2026-06-19T22:15:07 - fix: remove unused CSS declarations -->
+
+<!-- commit-log: 2026-07-04T11:31:21 - fix: correct grid alignment in features section -->
