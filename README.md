@@ -79,3 +79,5 @@
 <!-- commit-log: 2026-07-04T14:57:49 - feat: add contact form with basic validation -->
 
 <!-- commit-log: 2026-07-04T16:01:43 - fix: ensure images have proper alt attributes -->
+
+<!-- commit-log: 2026-07-04T22:26:14 - feat: add testimonials section to landing page -->
