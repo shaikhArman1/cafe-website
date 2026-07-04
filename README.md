@@ -73,3 +73,5 @@
 <!-- commit-log: 2026-06-19T22:15:07 - fix: remove unused CSS declarations -->
 
 <!-- commit-log: 2026-07-04T11:31:21 - fix: correct grid alignment in features section -->
+
+<!-- commit-log: 2026-07-04T12:14:37 - feat: add smooth scroll behavior to nav links -->
