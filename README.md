@@ -81,3 +81,5 @@
 <!-- commit-log: 2026-07-04T16:01:43 - fix: ensure images have proper alt attributes -->
 
 <!-- commit-log: 2026-07-04T22:26:14 - feat: add testimonials section to landing page -->
+
+<!-- commit-log: 2026-08-25T14:39:08 - feat: add favicon and social preview image -->
