@@ -83,3 +83,5 @@
 <!-- commit-log: 2026-07-04T22:26:14 - feat: add testimonials section to landing page -->
 
 <!-- commit-log: 2026-08-25T14:39:08 - feat: add favicon and social preview image -->
+
+<!-- commit-log: 2026-08-27T22:14:32 - chore: minify and organize CSS rules -->
